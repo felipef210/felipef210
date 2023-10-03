@@ -27,17 +27,25 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
 
 
 <h2 align="center"> Tecnologias e linguagens que gostaria de aprender:<h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java logo" title="Java" height="25" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282C34" alt="React logo" title="React" height="25" />
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java logo" title="Java" height="25"/>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282C34" alt="React logo" title="React" height="25"/>
 <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&labelColor=00758F" alt="MySQL Logo" title="MySQL" height="25"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipef210&show_icons=true&locale=pt-BR&layout=compact" alt="felipef210" /> </p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipef210&show_icons=true&locale=pt-BR" alt="felipef210" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipef210&show_icons=true&locale=pt-BR&layout=compact" alt="felipef210"/> 
+</p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipef210&show_icons=true&locale=pt-BR" alt="felipef210"/> 
+</p>
 
 <strong align="center"> Fale comigo 💬 <strong/>
   
-<a href="https://www.linkedin.com/in/felipe-m-945a6a116/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipef210" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/felipe-m-945a6a116/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipef210" height="30" width="40"/>
+</a>
+
+<a href="mailto:rfelipe321@live.com">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+</a>
   
 <br>
 
