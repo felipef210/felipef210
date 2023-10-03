@@ -27,7 +27,7 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
 
 
 <h2 align="center"> Tecnologias e linguagens que gostaria de aprender:<h2>
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java logo" title="Java" height="25" />
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282C34" alt="React logo" title="React" height="25" />
 <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&labelColor=00758F" alt="MySQL Logo" title="MySQL" height="25"/>
 </p>
