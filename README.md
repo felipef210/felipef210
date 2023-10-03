@@ -25,7 +25,6 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=282C34" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />
 
-
 <h2 align="center"> Tecnologias e linguagens que gostaria de aprender:<h2>
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java logo" title="Java" height="25"/>
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282C34" alt="React logo" title="React" height="25"/>
@@ -38,9 +37,9 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipef210&show_icons=true&locale=pt-BR" alt="felipef210"/> 
 </p>
 
-<strong align="center"> Fale comigo 💬 <strong/>
-
 <br>
+
+<strong align="center"> Fale comigo 💬 <strong/>
 
 <p>
   <a href="https://www.linkedin.com/in/felipe-m-945a6a116/" target="_blank">
@@ -52,7 +51,6 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
   </a>
 </p>
 
-  
 <br>
 
 <h3 align="center"> Fique livre para 🔎 os repositórios! </h3>
