@@ -40,6 +40,8 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
 
 <strong align="center"> Fale comigo 💬 <strong/>
 
+<br>
+
 <p>
   <a href="https://www.linkedin.com/in/felipe-m-945a6a116/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
