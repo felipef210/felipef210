@@ -39,13 +39,16 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
 </p>
 
 <strong align="center"> Fale comigo 💬 <strong/>
-  
-<a href="https://www.linkedin.com/in/felipe-m-945a6a116/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipef210" height="30" width="40"/>
-</a>
 
-<a href="mailto:rfelipe321@live.com">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/felipe-m-945a6a116/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipef210" height="30" width="40"/>
+  </a>
+  
+  <a href="mailto:rfelipe321@live.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+  </a>
+</p>
+
   
 <br>
 
