@@ -18,7 +18,7 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
 <h1 align="center"> Linguagens e ferramentas<h1>
 <img src="https://img.shields.io/badge/--blue?logo=c&logoColor=white" alt="C" title="c" height="25"/>
 <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white" alt="C++" title="c++" height="25"/>
-<img src="https://img.shields.io/badge/-C_Sharp-green&color=black?logo=csharp&logoColor=black" alt="C Sharp logo" title="csharp" height="25" color="black"/>
+<img src="https://img.shields.io/badge/-C%23-green&color=black?logo=csharp" alt="C Sharp logo" title="csharp" height="25"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=282C34" alt="HTML5 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=282C34" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=282C34" alt="JavaScript logo" title="JavaScript" height="25" />
