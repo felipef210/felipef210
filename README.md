@@ -22,6 +22,7 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=282C34" alt="HTML5 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=282C34" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=282C34" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" />
 <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=282C34" alt="React Native logo" title="React Native" height="25" />
 <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" alt="Git logo" title="Git" height="25" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />
@@ -32,6 +33,9 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java logo" title="Java" height="25"/>
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282C34" alt="React logo" title="React" height="25"/>
 <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&labelColor=00758F" alt="MySQL Logo" title="MySQL" height="25"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white&labelColor=85EA2D" alt="Swagger Logo" title="Swagger" height="25"/>
+<img src="https://img.shields.io/badge/Sequelize-61DAFB?logo=sequelize&logoColor=404D59" alt="Sequelize logo" title="Sequelize" height="25" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipef210&show_icons=true&locale=pt-BR&layout=compact" alt="felipef210"/> 
