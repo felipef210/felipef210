@@ -38,7 +38,7 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
 
 <br>
 
-<h2 align="center"> Tecnologias e linguagens que desejo aprender</h2>
+<h1 align="center"> Tecnologias e linguagens que desejo aprender</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java logo" title="Java" height="25"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js"  height="25"/>
