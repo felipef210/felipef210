@@ -44,16 +44,15 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js"  height="25"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282C34" alt="React logo" title="React" height="25"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&labelColor=00758F" alt="MySQL Logo" title="MySQL" height="25"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white&labelColor=85EA2D" alt="Swagger Logo" title="Swagger" height="25"/>
-  <img src="https://img.shields.io/badge/Sequelize-61DAFB?logo=sequelize&logoColor=404D59" alt="Sequelize logo" title="Sequelize" height="25" />
 </div>
 
 <br>
 
 <h1 align="center">Estatísticas</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipef210&show_icons=true&locale=pt-BR&layout=compact" alt="felipef210"/> 
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neemiasvieira&show_icons=true&locale=pt-BR&layout=compact" alt="felipef210"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=neemiasvieira&show_icons=true&locale=pt-BR" alt="felipef210" /></p> 
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipef210&show_icons=true&locale=pt-BR" alt="felipef210"/> 
 </p>
