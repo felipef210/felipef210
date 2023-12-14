@@ -51,7 +51,7 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
 <br>
 
 <h1 align="center">Estatísticas</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipef2101&show_icons=true&locale=pt-BR&layout=compact" alt="felipef210"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipef210&show_icons=true&locale=pt-BR&layout=compact" alt="felipef210"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=felipef210&show_icons=true&locale=pt-BR" alt="felipef210" /></p> 
 
 <br>
