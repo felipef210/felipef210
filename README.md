@@ -15,7 +15,7 @@ Tenho experiência em manutenção de computadores e notebooks e no momento esto
 Nos momentos de lazer, encontro satisfação em praticar musculação, jogar futebol e videogames. Além disso, tenho profunda paixão pela música e, durante minhas férias, me dedico à prática da guitarra.
 </p>
 
-<h1 align="center">Linguagens</h1>
+<h1 align="center">🖥 Linguagens</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/--blue?logo=c&logoColor=white" alt="C" title="c" height="25"/>
   <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white" alt="C++" title="c++" height="25"/>
