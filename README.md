@@ -28,7 +28,7 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
 
 <br>
 
-<h1 align="center">Ferramentas</h1>
+<h1 align="center">Ferramentas ⚙</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" alt="Git logo" title="Git" height="25" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />
@@ -38,7 +38,7 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
 
 <br>
 
-<h1 align="center"> Tecnologias e linguagens que desejo aprender</h1>
+<h1 align="center">Tecnologias e linguagens que desejo aprender 👨‍💻</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java logo" title="Java" height="25"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js"  height="25"/>
