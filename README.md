@@ -4,7 +4,7 @@
 
 <h1 align="center"> Sobre mim :sunglasses: </h1>
 <p align="justify">
-Meu nome é Felipe, e estou atualmente no 5º ano do Ensino Superior de Engenharia da Computação na Unisanta. Com 22 anos tenho dedicado meu tempo e energia ao aprimoramento das minhas habilidades em desenvolvimento de software, com foco especial nas linguagens: <b>C#</b>, <b>HTML</b>, <b>CSS</b>, <b>Javascript</b> e pocuo conhecimento em <b>Angular</b>.
+Meu nome é Felipe, e estou atualmente no 5º ano do Ensino Superior de Engenharia da Computação na Unisanta. Com 22 anos tenho dedicado meu tempo e energia ao aprimoramento das minhas habilidades em desenvolvimento de software, com foco especial nas linguagens: <b>C#</b>, <b>HTML</b>, <b>CSS</b>, <b>Javascript</b> e pouco conhecimento em <b>Angular</b>.
 </p>
 
 <p align="justify">
