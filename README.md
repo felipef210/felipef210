@@ -34,7 +34,7 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
   <img src="https://img.shields.io/badge/Visual%20Studio-A020F0?logo=visualstudiocode&logoColor=fff&style=plastic" alt="Visual Studio logo" title="Visual Studio" height="25" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927" alt="SQL Server logo" title="SQL" height="25" />
-  <img src="https://img.shields.io/badge/postgresql-4169e1?logo=postgresql&logoColor=white" alt="PostgreSQL logo" title="SQL" height="25" />
+  <img src="https://img.shields.io/badge/postgresql-4169e1?logo=PostgreSQL&logoColor=white" alt="PostgreSQL logo" title="SQL" height="25" />
 </div>
 
 <br>
