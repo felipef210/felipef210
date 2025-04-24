@@ -43,7 +43,7 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
 <h1 align="center">👨‍💻 Frameworks que utilizo</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" />
-  <img src="https://img.shields.io/badge/EntityFramework-purple?logo=c-sharp&logoColor=white" alt="Entity Framework logo" title="Entity Framework" height="25" />
+  <img src="https://img.shields.io/badge/-Entity_Framework-8C3D65?logo=dotnet&logoColor=white" alt="Entity Framework logo" title="Entity Framework" height="25" />
 </div>
 
 <br>
