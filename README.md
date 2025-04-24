@@ -4,7 +4,7 @@
 
 <h1 align="center"> Sobre mim :sunglasses: </h1>
 <p align="justify">
-Meu nome é Felipe, e estou atualmente no 5º ano do Ensino Superior de Engenharia da Computação na Unisanta. Com 22 anos tenho dedicado meu tempo e energia ao aprimoramento das minhas habilidades em desenvolvimento de software, com foco especial nas linguagens: <b>C#</b>, <b>HTML</b>, <b>CSS</b>, <b>Javascript</b> e pouco conhecimento em <b>Angular</b>.
+Meu nome é Felipe, sou formado em Engenharia da Computação na Unisanta. Com 23 anos tenho dedicado meu tempo e energia ao aprimoramento das minhas habilidades em desenvolvimento de software, com foco especial nas linguagens: <b>C#</b> e <b>Angular</b>.
 </p>
 
 <p align="justify">
@@ -32,20 +32,18 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" alt="Git logo" title="Git" height="25" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=282C34" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-  <img src="https://img.shields.io/badge/EntityFramework-purple?logo=c-sharp&logoColor=white" alt="Entity Framework logo" title="Entity Framework" height="25" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" alt="SQL Server logo" title="SQL" height="25" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-A020F0?logo=visualstudiocode&logoColor=fff&style=plastic" alt="Visual Studio logo" title="Visual Studio" height="25" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927" alt="SQL Server logo" title="SQL" height="25" />
+  <img src="https://img.shields.io/badge/postgresql-4169e1?logo=postgresql&logoColor=white" alt="PostgreSQL logo" title="SQL" height="25" />
 </div>
 
 <br>
 
-<h1 align="center">👨‍💻 Tecnologias e linguagens que desejo aprender</h1>
+<h1 align="center">👨‍💻 Frameworks que utilizo</h1>
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java logo" title="Java" height="25"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js"  height="25"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282C34" alt="React logo" title="React" height="25"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white&labelColor=85EA2D" alt="Swagger Logo" title="Swagger" height="25"/>
+  <img src="https://img.shields.io/badge/EntityFramework-purple?logo=c-sharp&logoColor=white" alt="Entity Framework logo" title="Entity Framework" height="25" />
 </div>
 
 <br>
