@@ -23,7 +23,6 @@ Nos momentos de lazer, encontro satisfação em praticar musculação, jogar fut
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=282C34" alt="HTML5 logo" title="HTML5" height="25" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=282C34" alt="CSS3 logo" title="CSS3" height="25" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=282C34" alt="JavaScript logo" title="JavaScript" height="25" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=282C34" alt="React Native logo" title="React Native" height="25" />
 </div>
 
 <br>
